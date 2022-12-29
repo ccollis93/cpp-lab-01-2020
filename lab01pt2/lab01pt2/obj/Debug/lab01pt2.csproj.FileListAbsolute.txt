@@ -1,0 +1,7 @@
+C:\Users\Christian\Desktop\Winter 2020\CS 133N Beg Prog C#\week01\lab01pt2\lab01pt2\obj\Debug\lab01pt2.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Winter 2020\CS 133N Beg Prog C#\week01\lab01pt2\lab01pt2\bin\Debug\lab01pt2.exe.config
+C:\Users\Christian\Desktop\Winter 2020\CS 133N Beg Prog C#\week01\lab01pt2\lab01pt2\bin\Debug\lab01pt2.exe
+C:\Users\Christian\Desktop\Winter 2020\CS 133N Beg Prog C#\week01\lab01pt2\lab01pt2\bin\Debug\lab01pt2.pdb
+C:\Users\Christian\Desktop\Winter 2020\CS 133N Beg Prog C#\week01\lab01pt2\lab01pt2\obj\Debug\lab01pt2.exe
+C:\Users\Christian\Desktop\Winter 2020\CS 133N Beg Prog C#\week01\lab01pt2\lab01pt2\obj\Debug\lab01pt2.pdb
+C:\Users\Christian\Desktop\Winter 2020\CS 133N Beg Prog C#\week01\lab01pt2\lab01pt2\obj\Debug\lab01pt2.csprojAssemblyReference.cache
